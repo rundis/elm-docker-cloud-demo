@@ -1,0 +1,12 @@
+{
+  "name": "elm-docker-cloud",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "wsproxy.js",
+  "author": "Magnus Rundberget",
+  "license": "MIT",
+  "devDependencies": {
+    "http-proxy": "^1.15.2"
+  }
+}
